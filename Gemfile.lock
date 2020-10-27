@@ -64,7 +64,7 @@ GEM
       octopress-tag-helpers (~> 1.0)
     octopress-tag-helpers (1.0.8)
       jekyll (>= 2.0)
-    pathutil (0.14.0)
+    pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     pry (0.10.4)
       coderay (~> 1.1.0)
